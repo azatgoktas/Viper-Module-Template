@@ -1,4 +1,4 @@
-![](assets/header.jpg)
+## What is it for?
 
 Creates 6-7 file templates for you. Time saver.
 
@@ -14,7 +14,7 @@ sudo swift install.swift
 
 ## Project Hierarchy
 
-![Preview](/assets/hierarchy.png)
+![Preview](/assets/hierarcy.png)
 
 ## Example Module
 You can check ExampleScene folder for example module.
